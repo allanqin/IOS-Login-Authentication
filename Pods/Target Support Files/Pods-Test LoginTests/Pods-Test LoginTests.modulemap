@@ -1,0 +1,6 @@
+framework module Pods_Test_LoginTests {
+  umbrella header "Pods-Test LoginTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
